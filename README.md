@@ -29,7 +29,7 @@ See the [job description on our website](https://ae.studio/join-us).
 
 In this exercise you're going to build a tool that gives insights on someone's GitHub profile.
 
-See the `docs` folder for mockups.
+See the `docs` folder for mockups. You can find [GitHub's API documentation in here](https://docs.github.com/en/rest), you won't be needing an API key for this exercise.
 
 Estimate and complete the following user stories:
 
