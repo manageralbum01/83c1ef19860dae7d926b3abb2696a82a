@@ -69,7 +69,7 @@ display, in the profile screen, the total number of
 
 ---
 
-## #3 - User Story: display the languages used on the GitHub user's repositories and show the percentage in which they appear across all their repositories
+## #3 - User Story: display the main languages used on the GitHub user's repositories and show the percentage they represent in all repositories
 
 as an user of the application
 I want to be able to see the different languages and how much of each is used in owned repositories
