@@ -63,9 +63,9 @@ display, in the profile screen, the total number of
 - followers
 - following
 - repositories
-- stars from all repositories
-- watchers from all repositories
-- forks from all repositories
+- stars from all owned user repositories
+- watchers from all owned user repositories
+- forks from all owned user repositories
 
 ---
 
