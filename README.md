@@ -24,7 +24,6 @@ In this exercise you're going to build a tool that gives insights on someone's G
 
 - feel free to use Google, Stack Overflow or anything else you want
 - feel free to install any packages you think is necessary
-- feel free to use your local setup, or services like [Stackblitz](https://stackblitz.com/), [CodeSandbox](https://codesandbox.io/), etc
 
 # We expect
 
