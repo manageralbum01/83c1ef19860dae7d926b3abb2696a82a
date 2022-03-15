@@ -25,14 +25,9 @@ In this exercise you're going to build a tool that gives insights on someone's G
 - feel free to use Google, Stack Overflow or anything else you want
 - feel free to install any packages you think is necessary
 
-# We expect
+# We
 
-**In general**:
-
-- **Communication skills**: we want to see if you are capable of communicating and explaining ideas to others
-- **Problem solving skills**: we need people who are able to solve the client's problems, come up with solutions and ideas to improve things
-- **Coding skills**: we need people who can write code and make things come to life
-- **Good practices, organization, architecture, unit tests**: we do care about the quality of our projects and we need to keep them in good shape
+We are a client that wants to build an app. Your goal is to build the app that the client wants.
 
 # Job
 
