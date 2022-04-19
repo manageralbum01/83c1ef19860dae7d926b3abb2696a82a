@@ -6,14 +6,11 @@ You can find [GitHub's API documentation in here](https://docs.github.com/en/res
 
 # App
 
-## Rules
+## Rules & Acceptance Criteria
 
 - only consider happy paths
 - you can call the endpoint as many times as you want for testing
 - you can use any framework you want as long as you build an API and a web interface
-
-## Acceptance Criteria
-
 - needs an interface that asks for a input
 - need to create a custom API endpoint that returns the total number of stars and the avatar url of the user from the input
 - show the user avatar and number of stars on screen
