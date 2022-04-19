@@ -6,16 +6,20 @@ You can find [GitHub's API documentation in here](https://docs.github.com/en/res
 
 # App
 
-## Acceptance Criteria
+## Rules
 
 - only consider happy paths
+- you can call the endpoint as many times as you want for testing
+- you can use any framework you want as long as you build an API and a web interface
+
+## Acceptance Criteria
+
 - needs an interface that asks for a input
-- need to create a custom api endpoint that returns the total number of stars and the avatar url of the user from the input
+- need to create a custom API endpoint that returns the total number of stars and the avatar url of the user from the input
 - show the user avatar and number of stars on screen
 - after you hit both endpoints you can never hit them again
 - has to persist if browser restarts
 - has to persist if server restarts
-- you can call the endpoint as many times as you want for testing
 
 ## GitHub profiler
 
