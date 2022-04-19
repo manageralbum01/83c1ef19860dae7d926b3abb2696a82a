@@ -18,6 +18,8 @@ You can find [GitHub's API documentation in here](https://docs.github.com/en/res
 - has to persist if browser restarts
 - has to persist if server restarts
 
+![](./docs/api-call.png)
+
 ## GitHub profiler
 
 Input
