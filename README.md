@@ -4,7 +4,21 @@ Below is the AE Studio's exercise. This exercise is designed to give our team a 
 
 You can find [GitHub's API documentation in here](https://docs.github.com/en/rest), you **won't** be needing an API key for this exercise.
 
+# Job
+
+See the [job description on our website](https://ae.studio/join-us).
+
 # App
+
+## GitHub profiler
+
+Input
+
+![](./docs/1.png)
+
+Show data
+
+![](./docs/2.png)
 
 ## Rules & Acceptance Criteria
 
@@ -20,17 +34,3 @@ You can find [GitHub's API documentation in here](https://docs.github.com/en/res
 - has to persist if server restarts
 
 ![](./docs/api-call.png)
-
-## GitHub profiler
-
-Input
-
-![](./docs/1.png)
-
-Show data
-
-![](./docs/2.png)
-
-# Job
-
-See the [job description on our website](https://ae.studio/join-us).
