@@ -12,25 +12,26 @@ See the [job description on our website](https://ae.studio/join-us).
 
 ## GitHub profiler
 
-Input
+Build an application that gets information about a GitHub user from their username. Show their picture and the total number of stars that they have.
+
+### Input
 
 ![](./docs/1.png)
 
-Show data
+### Show data
 
 ![](./docs/2.png)
 
-## Rules & Acceptance Criteria
+## You
 
-- only consider happy paths
-- you can call the endpoint as many times as you want for testing
-- you can use any framework you want as long as you build an API and a web interface
-- needs an interface that asks for a input
-- you need to create a custom API endpoint that returns the total number of stars and the avatar url
-- show the user avatar and number of stars on screen
-- after you hit both endpoints you can never hit them again
-- has to persist if you change browsers
-- has to persist if browser restarts
-- has to persist if server restarts
+- should only consider happy paths (you don't have to handle errors and things like that)
+- can use any framework you want as long as you build an API and a web interface
+  - need to create a custom API endpoint that returns the total number of stars and the avatar url
+  - need to create an interface that asks for an input
+- should only call the GitHub API if you haven't already called it for that user
+  - a request for the same user should return data stored by your API rather than generating a new request to GitHub
+  - the data has to persist if you change browsers
+  - the data has to persist if server restarts
+- should show the user avatar and number of stars on screen
 
 ![](./docs/api-call.png)
