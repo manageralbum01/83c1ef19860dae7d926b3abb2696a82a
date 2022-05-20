@@ -1,6 +1,6 @@
-# AE Studio's exercise
+# LC
 
-Below is the AE Studio's exercise. This exercise is designed to give our team a chance to assess your skills and let you have fun collaborating on a cool little project.
+This exercise is designed to give our team a chance to assess your skills and let you have fun collaborating on a cool little project.
 
 You can find [GitHub's API documentation in here](https://docs.github.com/en/rest), you **won't** be needing an API key for this exercise.
 
